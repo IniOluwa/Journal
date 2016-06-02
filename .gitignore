@@ -1,0 +1,5 @@
+# Python compiled files.
+*.py[cod]
+
+# Sqlite database
+db.sqlite3
